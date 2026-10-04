@@ -1,5 +1,9 @@
 # PCA de jogadores de futebol
 
+<p align="center">
+  <img src="assets/banner.png" alt="Banner do Projeto" width="80%">
+</p>
+
 ## Motivação
 
 A Análise de Componentes Principais (PCA) transforma várias métricas correlacionadas em componentes que resumem seus padrões de variação. A primeira componente principal (PC1) é uma combinação linear das métricas que captura a maior parcela da variância observada nos dados. Assim, ela pode ser usada para construir um índice sintético: em vez de avaliar cada métrica isoladamente, projetamos cada jogador nessa combinação e obtemos uma única pontuação.
